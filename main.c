@@ -150,7 +150,7 @@ static void armazenador_linhas_liberar(ArmazenadorDeLinhas *armaz) {
 }
 
 static int eh_caractere_de_palavra(unsigned char c) {
-	return isalnum(c);
+	return isalnum(c) || (c >= 128);
 }
 
 static void normalizar_palavra_busca(const char *s, char *saida, size_t capacidade_saida) {
