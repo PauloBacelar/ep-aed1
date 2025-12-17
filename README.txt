@@ -1,5 +1,9 @@
 EP - Indexidador e buscador de palavras
 
+16857617 - Breno Grugnale Frois Lopes
+16895603 - Paulo Guilherme Bacelar Andrade
+16904495 - Vitor Gutierrez Silva
+
 Sistema de indexação e busca de palavras em um arquivo de texto.
 
 Para compilar, certifique-se de ter o GCC (compilador C) instalado na sua máquina.

@@ -1,3 +1,9 @@
+/* 
+  16857617 - Breno Grugnale Frois Lopes
+  16895603 - Paulo Guilherme Bacelar Andrade
+  16904495 - Vitor Gutierrez Silva
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
