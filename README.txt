@@ -1,4 +1,4 @@
-EP - Indexidador e buscador de palavras
+EP - Indexador e buscador de palavras
 
 16857617 - Breno Grugnale Frois Lopes
 16895603 - Paulo Guilherme Bacelar Andrade
